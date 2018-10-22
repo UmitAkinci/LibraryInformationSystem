@@ -1,0 +1,7 @@
+C:\Documents and Settings\ggunes\Desktop\KutuphaneProjesi\KutuphaneWeb\bin\KutuphaneWeb.dll
+C:\Documents and Settings\ggunes\Desktop\KutuphaneProjesi\KutuphaneWeb\bin\KutuphaneWeb.pdb
+C:\Documents and Settings\ggunes\Desktop\KutuphaneProjesi\KutuphaneWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ggunes\Desktop\KutuphaneProjesi\KutuphaneWeb\obj\Debug\KutuphaneWeb.dll
+C:\Documents and Settings\ggunes\Desktop\KutuphaneProjesi\KutuphaneWeb\obj\Debug\KutuphaneWeb.pdb
+C:\Documents and Settings\ggunes\Desktop\KutuphaneProjesi\KutuphaneWeb\bin\KutuphaneData.dll
+C:\Documents and Settings\ggunes\Desktop\KutuphaneProjesi\KutuphaneWeb\bin\KutuphaneData.pdb

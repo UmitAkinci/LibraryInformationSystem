@@ -1,0 +1,11 @@
+C:\Documents and Settings\ggunes\Desktop\KutuphaneProjesi\KutuphaneData\bin\Debug\KutuphaneData.dll
+C:\Documents and Settings\ggunes\Desktop\KutuphaneProjesi\KutuphaneData\bin\Debug\KutuphaneData.pdb
+C:\Documents and Settings\ggunes\Desktop\KutuphaneProjesi\KutuphaneData\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ggunes\Desktop\KutuphaneProjesi\KutuphaneData\obj\Debug\KutuphaneData.dll
+C:\Documents and Settings\ggunes\Desktop\KutuphaneProjesi\KutuphaneData\obj\Debug\KutuphaneData.pdb
+C:\Users\uakinci\Desktop\KutuphaneProjesi\KutuphaneData\bin\Debug\KutuphaneData.dll
+C:\Users\uakinci\Desktop\KutuphaneProjesi\KutuphaneData\bin\Debug\KutuphaneData.pdb
+C:\Users\uakinci\Desktop\KutuphaneProjesi\KutuphaneData\obj\Debug\KutuphaneData.csprojAssemblyReference.cache
+C:\Users\uakinci\Desktop\KutuphaneProjesi\KutuphaneData\obj\Debug\KutuphaneData.csproj.CoreCompileInputs.cache
+C:\Users\uakinci\Desktop\KutuphaneProjesi\KutuphaneData\obj\Debug\KutuphaneData.dll
+C:\Users\uakinci\Desktop\KutuphaneProjesi\KutuphaneData\obj\Debug\KutuphaneData.pdb

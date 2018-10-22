@@ -1,0 +1,50 @@
+C:\Documents and Settings\ggunes\Desktop\Umit_AKINCI_KutuphaneProjesi\Umit_AKINCI_KutuphaneProjesi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ggunes\Desktop\Umit_AKINCI_KutuphaneProjesi\Umit_AKINCI_KutuphaneProjesi\bin\Debug\Umit_AKINCI_KutuphaneProjesi.exe
+C:\Documents and Settings\ggunes\Desktop\Umit_AKINCI_KutuphaneProjesi\Umit_AKINCI_KutuphaneProjesi\bin\Debug\Umit_AKINCI_KutuphaneProjesi.pdb
+C:\Documents and Settings\ggunes\Desktop\Umit_AKINCI_KutuphaneProjesi\Umit_AKINCI_KutuphaneProjesi\obj\x86\Debug\Umit_AKINCI_KutuphaneProjesi.FrmAnaMenu.resources
+C:\Documents and Settings\ggunes\Desktop\Umit_AKINCI_KutuphaneProjesi\Umit_AKINCI_KutuphaneProjesi\obj\x86\Debug\Umit_AKINCI_KutuphaneProjesi.FrmBolum.resources
+C:\Documents and Settings\ggunes\Desktop\Umit_AKINCI_KutuphaneProjesi\Umit_AKINCI_KutuphaneProjesi\obj\x86\Debug\Umit_AKINCI_KutuphaneProjesi.FrmKategori.resources
+C:\Documents and Settings\ggunes\Desktop\Umit_AKINCI_KutuphaneProjesi\Umit_AKINCI_KutuphaneProjesi\obj\x86\Debug\Umit_AKINCI_KutuphaneProjesi.FrmKitap.resources
+C:\Documents and Settings\ggunes\Desktop\Umit_AKINCI_KutuphaneProjesi\Umit_AKINCI_KutuphaneProjesi\obj\x86\Debug\Umit_AKINCI_KutuphaneProjesi.FrmOdunc.resources
+C:\Documents and Settings\ggunes\Desktop\Umit_AKINCI_KutuphaneProjesi\Umit_AKINCI_KutuphaneProjesi\obj\x86\Debug\Umit_AKINCI_KutuphaneProjesi.FrmOgrenci.resources
+C:\Documents and Settings\ggunes\Desktop\Umit_AKINCI_KutuphaneProjesi\Umit_AKINCI_KutuphaneProjesi\obj\x86\Debug\Umit_AKINCI_KutuphaneProjesi.FrmYazar.resources
+C:\Documents and Settings\ggunes\Desktop\Umit_AKINCI_KutuphaneProjesi\Umit_AKINCI_KutuphaneProjesi\obj\x86\Debug\Umit_AKINCI_KutuphaneProjesi.Properties.Resources.resources
+C:\Documents and Settings\ggunes\Desktop\Umit_AKINCI_KutuphaneProjesi\Umit_AKINCI_KutuphaneProjesi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\ggunes\Desktop\Umit_AKINCI_KutuphaneProjesi\Umit_AKINCI_KutuphaneProjesi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\ggunes\Desktop\Umit_AKINCI_KutuphaneProjesi\Umit_AKINCI_KutuphaneProjesi\obj\x86\Debug\Umit_AKINCI_KutuphaneProjesi.exe
+C:\Documents and Settings\ggunes\Desktop\Umit_AKINCI_KutuphaneProjesi\Umit_AKINCI_KutuphaneProjesi\obj\x86\Debug\Umit_AKINCI_KutuphaneProjesi.pdb
+C:\Documents and Settings\ggunes\Desktop\KutuphaneProjesi\Umit_AKINCI_KutuphaneProjesi\bin\Debug\Umit_AKINCI_KutuphaneProjesi.exe
+C:\Documents and Settings\ggunes\Desktop\KutuphaneProjesi\Umit_AKINCI_KutuphaneProjesi\bin\Debug\Umit_AKINCI_KutuphaneProjesi.pdb
+C:\Documents and Settings\ggunes\Desktop\KutuphaneProjesi\Umit_AKINCI_KutuphaneProjesi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ggunes\Desktop\KutuphaneProjesi\Umit_AKINCI_KutuphaneProjesi\obj\x86\Debug\Umit_AKINCI_KutuphaneProjesi.FrmAnaMenu.resources
+C:\Documents and Settings\ggunes\Desktop\KutuphaneProjesi\Umit_AKINCI_KutuphaneProjesi\obj\x86\Debug\Umit_AKINCI_KutuphaneProjesi.FrmBolum.resources
+C:\Documents and Settings\ggunes\Desktop\KutuphaneProjesi\Umit_AKINCI_KutuphaneProjesi\obj\x86\Debug\Umit_AKINCI_KutuphaneProjesi.FrmKategori.resources
+C:\Documents and Settings\ggunes\Desktop\KutuphaneProjesi\Umit_AKINCI_KutuphaneProjesi\obj\x86\Debug\Umit_AKINCI_KutuphaneProjesi.FrmKitap.resources
+C:\Documents and Settings\ggunes\Desktop\KutuphaneProjesi\Umit_AKINCI_KutuphaneProjesi\obj\x86\Debug\Umit_AKINCI_KutuphaneProjesi.FrmOdunc.resources
+C:\Documents and Settings\ggunes\Desktop\KutuphaneProjesi\Umit_AKINCI_KutuphaneProjesi\obj\x86\Debug\Umit_AKINCI_KutuphaneProjesi.FrmOgrenci.resources
+C:\Documents and Settings\ggunes\Desktop\KutuphaneProjesi\Umit_AKINCI_KutuphaneProjesi\obj\x86\Debug\Umit_AKINCI_KutuphaneProjesi.FrmYazar.resources
+C:\Documents and Settings\ggunes\Desktop\KutuphaneProjesi\Umit_AKINCI_KutuphaneProjesi\obj\x86\Debug\Umit_AKINCI_KutuphaneProjesi.Properties.Resources.resources
+C:\Documents and Settings\ggunes\Desktop\KutuphaneProjesi\Umit_AKINCI_KutuphaneProjesi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\ggunes\Desktop\KutuphaneProjesi\Umit_AKINCI_KutuphaneProjesi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\ggunes\Desktop\KutuphaneProjesi\Umit_AKINCI_KutuphaneProjesi\obj\x86\Debug\Umit_AKINCI_KutuphaneProjesi.exe
+C:\Documents and Settings\ggunes\Desktop\KutuphaneProjesi\Umit_AKINCI_KutuphaneProjesi\obj\x86\Debug\Umit_AKINCI_KutuphaneProjesi.pdb
+C:\Documents and Settings\ggunes\Desktop\KutuphaneProjesi\Umit_AKINCI_KutuphaneProjesi\bin\Debug\KutuphaneData.dll
+C:\Documents and Settings\ggunes\Desktop\KutuphaneProjesi\Umit_AKINCI_KutuphaneProjesi\bin\Debug\KutuphaneData.pdb
+C:\Users\uakinci\Desktop\KutuphaneProjesi\Umit_AKINCI_KutuphaneProjesi\bin\Debug\Umit_AKINCI_KutuphaneProjesi.exe
+C:\Users\uakinci\Desktop\KutuphaneProjesi\Umit_AKINCI_KutuphaneProjesi\bin\Debug\Umit_AKINCI_KutuphaneProjesi.pdb
+C:\Users\uakinci\Desktop\KutuphaneProjesi\Umit_AKINCI_KutuphaneProjesi\bin\Debug\KutuphaneData.dll
+C:\Users\uakinci\Desktop\KutuphaneProjesi\Umit_AKINCI_KutuphaneProjesi\bin\Debug\KutuphaneData.pdb
+C:\Users\uakinci\Desktop\KutuphaneProjesi\Umit_AKINCI_KutuphaneProjesi\obj\x86\Debug\Umit_AKINCI_KutuphaneProjesi.csprojAssemblyReference.cache
+C:\Users\uakinci\Desktop\KutuphaneProjesi\Umit_AKINCI_KutuphaneProjesi\obj\x86\Debug\Umit_AKINCI_KutuphaneProjesi.FrmAnaMenu.resources
+C:\Users\uakinci\Desktop\KutuphaneProjesi\Umit_AKINCI_KutuphaneProjesi\obj\x86\Debug\Umit_AKINCI_KutuphaneProjesi.FrmBolum.resources
+C:\Users\uakinci\Desktop\KutuphaneProjesi\Umit_AKINCI_KutuphaneProjesi\obj\x86\Debug\Umit_AKINCI_KutuphaneProjesi.FrmKategori.resources
+C:\Users\uakinci\Desktop\KutuphaneProjesi\Umit_AKINCI_KutuphaneProjesi\obj\x86\Debug\Umit_AKINCI_KutuphaneProjesi.FrmKitap.resources
+C:\Users\uakinci\Desktop\KutuphaneProjesi\Umit_AKINCI_KutuphaneProjesi\obj\x86\Debug\Umit_AKINCI_KutuphaneProjesi.FrmOdunc.resources
+C:\Users\uakinci\Desktop\KutuphaneProjesi\Umit_AKINCI_KutuphaneProjesi\obj\x86\Debug\Umit_AKINCI_KutuphaneProjesi.FrmOgrenci.resources
+C:\Users\uakinci\Desktop\KutuphaneProjesi\Umit_AKINCI_KutuphaneProjesi\obj\x86\Debug\Umit_AKINCI_KutuphaneProjesi.FrmYazar.resources
+C:\Users\uakinci\Desktop\KutuphaneProjesi\Umit_AKINCI_KutuphaneProjesi\obj\x86\Debug\Umit_AKINCI_KutuphaneProjesi.Properties.Resources.resources
+C:\Users\uakinci\Desktop\KutuphaneProjesi\Umit_AKINCI_KutuphaneProjesi\obj\x86\Debug\Umit_AKINCI_KutuphaneProjesi.csproj.GenerateResource.cache
+C:\Users\uakinci\Desktop\KutuphaneProjesi\Umit_AKINCI_KutuphaneProjesi\obj\x86\Debug\Umit_AKINCI_KutuphaneProjesi.csproj.CoreCompileInputs.cache
+C:\Users\uakinci\Desktop\KutuphaneProjesi\Umit_AKINCI_KutuphaneProjesi\obj\x86\Debug\Umit_AKINCI_KutuphaneProjesi.csproj.CopyComplete
+C:\Users\uakinci\Desktop\KutuphaneProjesi\Umit_AKINCI_KutuphaneProjesi\obj\x86\Debug\Umit_AKINCI_KutuphaneProjesi.exe
+C:\Users\uakinci\Desktop\KutuphaneProjesi\Umit_AKINCI_KutuphaneProjesi\obj\x86\Debug\Umit_AKINCI_KutuphaneProjesi.pdb
